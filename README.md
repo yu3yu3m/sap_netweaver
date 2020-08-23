@@ -91,3 +91,9 @@ https://docs.aws.amazon.com/sap/latest/sap-hana/operating-system-and-storage-con
 Advanced mode
     conn=/H/ec2-xx-xx-xx-xx.ap-southeast-2.compute.amazonaws.com/S/3200&wan=true&clnt=001&user=Developer
 
+## 12. Login
+
+    Client: 001
+    User: Developer
+    Password: Appl1ance
+    Language: EN
