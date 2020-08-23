@@ -1,4 +1,4 @@
-# sap_netweaver
+# SAP NetWeaver
 
 ## 1. Prepare OS
 
