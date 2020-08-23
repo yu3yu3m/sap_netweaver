@@ -1,7 +1,6 @@
 # sap_netweaver
 
-## 
-1. Prepare OS
+## 1. Prepare OS
 
 At least, you need to prepare OS that can execute this part of install script.
 
